@@ -1,0 +1,1 @@
+self.addEventListener('install', e => self.skipWaiting());self.addEventListener('activate', e => self.clients.claim());self.addEventListener('fetch', e => {});Ajoutez aussi deux images carrées icon-192.png et icon-512.png avec le logo Socadel.
